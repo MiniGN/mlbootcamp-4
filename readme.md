@@ -5,10 +5,10 @@
 2. Preprocessing
 	Пропуски
 	Нормализация
+	Генерация фич X*Y
 3. Модель
 	Сравнить разные классификаторы
 		http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
 	CROSS VALIDATION
-	Подбор параметров
+	Подбор параметров моделей
 4. Уменьшение размерности
-	
